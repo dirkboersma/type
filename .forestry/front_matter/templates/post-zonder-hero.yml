@@ -1,0 +1,15 @@
+---
+label: Post zonder hero
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
+pages:
+- _posts/dit-is-een-kale-post.md
