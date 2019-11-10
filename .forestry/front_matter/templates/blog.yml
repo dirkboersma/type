@@ -16,16 +16,6 @@ fields:
   label: image
   config:
     maxSize: '5'
-- name: de_post
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: De post
-  description: het hele verhaal
 - type: list
   name: tags
   label: tags
