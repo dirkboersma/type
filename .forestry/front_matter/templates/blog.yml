@@ -30,5 +30,5 @@ fields:
   config:
     use_select: false
 pages:
-- _posts/dit-is-de-tweede-post.md
+- _posts/2019-11-10-dit-is-de-tweede-post.md
 - _posts/hello-world.md
