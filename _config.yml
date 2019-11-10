@@ -11,9 +11,9 @@ email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
+twitter:     'dirkboersma'
 github:      ''
-instagram:   ''
+instagram:   'dirkboersma'
 facebook:    ''
 
 markdown:  kramdown
