@@ -14,6 +14,8 @@ fields:
 - type: file
   name: image
   label: image
+  config:
+    maxSize: '5'
 - name: de_post
   type: textarea
   default: ''
@@ -31,4 +33,3 @@ fields:
     use_select: false
 pages:
 - _posts/2019-11-10-dit-is-de-tweede-post.md
-- _posts/hello-world.md
