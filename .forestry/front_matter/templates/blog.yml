@@ -5,6 +5,9 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  config:
+    required: true
 - type: text
   name: title
   label: title
@@ -14,10 +17,5 @@ fields:
 - type: list
   name: tags
   label: tags
-- name: foto
-  type: file
-  config:
-    maxSize: 250
-  label: Foto
 pages:
 - _posts/hello-world.md
