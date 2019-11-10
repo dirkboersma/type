@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Hello world
 image: "/uploads/IMG_8226.JPG"
 tags: []
