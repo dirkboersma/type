@@ -22,4 +22,5 @@ fields:
   config:
     use_select: false
 pages:
+- _posts/help-me-i-m-here.md
 - _posts/2019-11-10-dit-is-de-tweede-post.md
